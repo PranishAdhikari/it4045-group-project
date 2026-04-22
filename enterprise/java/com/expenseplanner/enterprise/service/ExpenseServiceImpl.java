@@ -51,4 +51,3 @@ public class ExpenseServiceImpl implements ExpenseService {
         expenseRepository.deleteById(id);
     }
 }
-
