@@ -1,8 +1,8 @@
-package java.com.expenseplanner.enterprise.dao;
+package com.expenseplanner.enterprise.dao;
 
 import java.util.List;
 import java.util.Optional;
-import java.com.expenseplanner.enterprise.model.Expense;
+import com.expenseplanner.enterprise.model.Expense;
 
 public interface ExpenseRepository {
     List<Expense> findAll();

@@ -1,4 +1,4 @@
-package java.com.expenseplanner.enterprise.model;
+package com.expenseplanner.enterprise.model;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

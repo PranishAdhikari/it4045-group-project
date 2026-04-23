@@ -1,7 +1,7 @@
-package java.com.expenseplanner.enterprise.service;
+package com.expenseplanner.enterprise.service;
 
 import java.util.List;
-import java.com.expenseplanner.enterprise.model.Expense;
+import com.expenseplanner.enterprise.model.Expense;
 
 public interface ExpenseService {
     List<Expense> getAllExpenses();

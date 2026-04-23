@@ -1,7 +1,7 @@
-package java.com.expenseplanner.enterprise.service;
+package com.expenseplanner.enterprise.service;
 
-import java.com.expenseplanner.enterprise.dao.ExpenseRepository;
-import java.com.expenseplanner.enterprise.model.Expense;
+import com.expenseplanner.enterprise.dao.ExpenseRepository;
+import com.expenseplanner.enterprise.model.Expense;
 import java.util.List;
 
 public class ExpenseServiceImpl implements ExpenseService {

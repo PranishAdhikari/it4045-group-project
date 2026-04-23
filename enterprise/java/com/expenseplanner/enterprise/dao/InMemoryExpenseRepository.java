@@ -1,6 +1,6 @@
-package java.com.expenseplanner.enterprise.dao;
+package com.expenseplanner.enterprise.dao;
 
-import java.com.expenseplanner.enterprise.model.Expense;
+import com.expenseplanner.enterprise.model.Expense;
 import java.util.*;
 
 public class InMemoryExpenseRepository implements ExpenseRepository
